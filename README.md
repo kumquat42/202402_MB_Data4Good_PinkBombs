@@ -9,7 +9,7 @@ Create a web plateform to aggregate all kinds of data about Salmons production, 
 - Understanding, cleaning and first draft of presentation for Data from OECD.
 - Gathering data related to the environmental impact of chemicals (antibiotics...) and feces rejection.
 
-Asociated files:  
+Associated files:  
 2017_OECD_SalmoSalar.pdf
 Paper on Salmo Salar Biology, and farming.
 
